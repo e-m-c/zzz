@@ -234,27 +234,15 @@ function create_config( )
     },
     sudo_users = {187769689,160522435,119989724},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
-
-https://github.com/SEEDTEAM/TeleSeed
-
+    about_text = [[mega emc now work in supergroup
+supergroup = free
 Admins
-@Empero [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
+@thisisbangi
+@can_3er
+@ww_shahabsaf_ww
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@emcch
+@bangi_org
 ]],
     help_text_realm = [[
 Realm Commands:
